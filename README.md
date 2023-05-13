@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Retry once for Docker CI failures (#8164)
