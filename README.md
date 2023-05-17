@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
