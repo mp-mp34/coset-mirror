@@ -1,1 +1,1 @@
-Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
+Resize angle, count, and stage on keypoint number change (#7598)
