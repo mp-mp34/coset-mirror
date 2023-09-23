@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Rename model_id to model.id (#8447)
