@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
