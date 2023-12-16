@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+Fix Yolo 8.0.206 scale bug (#7821)
