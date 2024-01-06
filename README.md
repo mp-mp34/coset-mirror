@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Move Google Drive to slow tests (#8163)
