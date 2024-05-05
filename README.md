@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Fix Multi-GPU resume bug (#7328)
