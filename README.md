@@ -1,1 +1,1 @@
-Add https://youtu.be/R42s2zFtNIY to hub/datasets.md and CoreML image fix (#8085)
+ultralytics 8.0.233 improve Classify train augmentations (#4546)
