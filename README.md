@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
