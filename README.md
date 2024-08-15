@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
