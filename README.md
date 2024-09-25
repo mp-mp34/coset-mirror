@@ -1,1 +1,1 @@
-add yolov10
+Fix RTDETR generate anchor grid out of boundary (#7247)
