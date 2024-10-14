@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Add C++ Classify inference example (#6868)
